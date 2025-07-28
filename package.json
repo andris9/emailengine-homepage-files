@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@wcj/html-to-markdown": "^2.1.1"
+  }
+}
